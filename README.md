@@ -1,4 +1,4 @@
-## Hi there 👋 I'am Sirimanee Pimakaew
+## Hi there 👋 I'am Sirimanee Pimkaew
 
 Here are some ideas to get you started:
 
@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Open Source Projects about Web Development (Vue, React, React Native, Next.js)**
 - 🤔 I’m looking for help with **Building Scalable APIs**
 - 💬 Ask me about **Vue 3, React, Javascript, Figma Design**
-- 📫 How to reach me: **fern.pobby@gmail.com** หรือ [Line](https://line.me/ti/p/RMocD83rSQ)
+- 📫 How to reach me: **[Email](fern.pobby@gmail.com)** หรือ [Line](https://line.me/ti/p/RMocD83rSQ)
 - ⚡ Interested In **Frontend Development, Figma Design, Full-Stack Development, DevOps**
 
 ## 🛠️ Tech Stack
