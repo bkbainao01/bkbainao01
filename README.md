@@ -26,8 +26,11 @@
 ### **Database**  
 - MySQL, PostgreSQL  
 
-### **Tools**  
-- Docker, GitLab CI/CD, GitHub Actions, Figma  
+### **Tools & Quality**
+- **GitHub & GitLab** (Version Control & CI/CD Pipelines)  
+- **SonarQube / SonarCloud** (Code Quality & Static Analysis)  
+- ESLint, Prettier
+- Docker, GitLab CI/CD, GitHub Actions  
 
 ---
 
@@ -42,3 +45,5 @@
 
 - [Email](mailto:fern.pobby@gmail.com)  
 - [Line](https://line.me/ti/p/RMocD83rSQ)
+
+
