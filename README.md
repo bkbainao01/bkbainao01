@@ -14,7 +14,7 @@
 
 ### **Frontend (Main Expertise)**  
 - Vue 3, Vite, React, TypeScript  
-- Tailwind CSS, SCSS, Element Plus UI, Bootstrap 5  
+- Tailwind CSS, SCSS, Element Plus UI, Bootstrap 5, ShadCn UI  
 - State Management (Pinia, Redux Toolkit)  
 - Testing (Vitest, Vue Test Utils)  
 - Figma Design, Responsive Design
