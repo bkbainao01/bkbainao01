@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects focused on Frontend Development (Vue, React, React Native, Next.js)**  
 - 🤔 I’m looking for help with **integrating Frontend with scalable APIs**  
 - 💬 Ask me about **Vue 3, React, JavaScript, Frontend Architecture, UI/UX & Figma Design**  
-- 📫 How to reach me: **[Email](mailto:fern.pobby@gmail.com)** or [Line](https://line.me/ti/p/RMocD83rSQ)  
+- 📫 How to reach me: **[Email](mailto:fern.pobby@gmail.com)** or [Line](https://line.me/ti/p/RMocD83rSQ) or [LinkedIn](www.linkedin.com/in/sirimanee-pimkaew) 
 - ⚡ Passionate about **Frontend Development, UI/UX Design, Figma, and Modern Web Tools**
 
 ---
@@ -45,5 +45,6 @@
 
 - [Email](mailto:fern.pobby@gmail.com)  
 - [Line](https://line.me/ti/p/RMocD83rSQ)
+- [LinkedIn](www.linkedin.com/in/sirimanee-pimkaew)
 
 
