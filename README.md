@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m Sirimanee Pimkaew
 
-- 🔭 I’m currently working on **Vue.js, SCSS, CSS**  
+- 🔭 I’m currently working on **Vue.js, React.js, SCSS, CSS**  
 - 🌱 I’m currently learning **React, Bun & Elysia** (to better understand backend fundamentals)  
 - 👯 I’m looking to collaborate on **Open Source Projects focused on Frontend Development (Vue, React, React Native, Next.js)**  
 - 🤔 I’m looking for help with **integrating Frontend with scalable APIs**  
