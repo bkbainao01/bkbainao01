@@ -34,13 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bkbainao01&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bkbainao01&layout=compact&theme=radical)
-
----
-
 ## 📫 Contact
 
 - [Email](mailto:fern.pobby@gmail.com)  
